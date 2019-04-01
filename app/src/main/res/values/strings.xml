@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FinalProject</string>
+    <string name="login_status_preferences">login status preferences</string>
 </resources>
